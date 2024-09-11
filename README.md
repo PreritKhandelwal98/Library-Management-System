@@ -31,7 +31,6 @@ Ensure you have the following installed:
 
 ```bash
 git clone https://github.com/PreritKhandelwal98/Library-Management-System
-cd library-management-system
 ```
 
 ### 2. Install dependencies
