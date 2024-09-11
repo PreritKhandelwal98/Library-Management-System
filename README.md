@@ -1,5 +1,3 @@
-Here's a `README.md` file for your Library Management System:
-
 # Library Management System API
 
 A RESTful API for managing a library system built with **Node.js**, **Express.js**, **TypeScript**, **MongoDB**, and **JWT** authentication.
